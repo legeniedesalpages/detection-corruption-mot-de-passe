@@ -5,8 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/batch/pom.xml" />
+        <option value="$PROJECT_DIR$/service/api-compte/pom.xml" />
+        <option value="$PROJECT_DIR$/service/chiffrement/pom.xml" />
+        <option value="$PROJECT_DIR$/service/notification/pom.xml" />
+        <option value="$PROJECT_DIR$/launcher/pom.xml" />
+        <option value="$PROJECT_DIR$/service/fichier/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
 </project>

@@ -6,18 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="batch" />
         <module name="core" />
+        <module name="service-api-compte" />
+        <module name="service-chiffrement" />
+        <module name="service-notification" />
+        <module name="service-fichier" />
+        <module name="batch" />
+        <module name="launcher" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="batch" target="18" />
       <module name="core" target="18" />
+      <module name="launcher" target="18" />
+      <module name="service-api-compte" target="18" />
+      <module name="service-chiffrement" target="18" />
+      <module name="service-fichier" target="18" />
+      <module name="service-notification" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="batch" options="-parameters" />
+      <module name="launcher" options="-parameters" />
+      <module name="service-api-compte" options="-parameters" />
+      <module name="service-fichier" options="-parameters" />
+      <module name="service-notification" options="-parameters" />
     </option>
   </component>
 </project>

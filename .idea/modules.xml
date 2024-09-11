@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/batch/batch.iml" filepath="$PROJECT_DIR$/batch/batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/detection-corruption-mot-de-passe.iml" filepath="$PROJECT_DIR$/.idea/detection-corruption-mot-de-passe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/api-compte/service-api-compte.iml" filepath="$PROJECT_DIR$/service/api-compte/service-api-compte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/chiffrement/service-chiffrement.iml" filepath="$PROJECT_DIR$/service/chiffrement/service-chiffrement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/fichier/service-fichier.iml" filepath="$PROJECT_DIR$/service/fichier/service-fichier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/notification/service-notification.iml" filepath="$PROJECT_DIR$/service/notification/service-notification.iml" />
     </modules>
   </component>
 </project>
